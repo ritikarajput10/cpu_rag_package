@@ -194,7 +194,7 @@ CTRL + C
 
 ---
 
-## 📝 Future Improvements
+📝 Future Improvements
 
 * Chunk pages into smaller segments
 * Stream output token-by-token
@@ -204,7 +204,7 @@ CTRL + C
 
 ---
 
-## 👤 Author
+👤 Author
 
 Ritika Raj- (MCA) Data Science and AI
 
